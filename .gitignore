@@ -1,0 +1,12 @@
+# environments
+.venv/
+__pycache__/
+
+# data (do not push big files)
+data/raw/
+data/processed/
+output/
+
+# optional
+*.parquet
+*.csv
